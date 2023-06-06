@@ -1,5 +1,5 @@
 package BAI_1;
-
+ 
 import java.util.Scanner;
 
 class sinhVien {
